@@ -14,6 +14,11 @@ xhr.onload = function () {
     }
 };
 
+xhr.onerror = function () {
+    console.error("Network error");
+};
+
+xhr.send();
 
   articles.forEach(function(article) {
       var articleDiv = document.createElement('div');
