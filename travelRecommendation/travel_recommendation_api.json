@@ -1,0 +1,62 @@
+[
+      {
+        "name": "Sydney, Australia",
+        "category": "City",
+        "imageUrl": "https://www.cunard.com/content/dam/cunard/inventory-assets/ports/SYD/yqy.jpg",
+        "description": "A vibrant city known for its iconic landmarks like the Sydney Opera House and Sydney Harbour Bridge."
+      },
+      {
+        "name": "Melbourne, Australia",
+        "category": "City",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKZk8be626H9CCM5rPTX2cl1ILwE9v3fftzA&s",
+        "description": "A cultural hub famous for its art, food, and diverse neighborhoods."
+      },
+      {
+        "name": "Tokyo, Japan",
+        "category": "City",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYZtT3ZCE4Z0TRp6jI_2DW7Ynfq9etcFPhuXS_hqOwh_w8yw8gQOZklvcWsIDPIpb8faY&usqp=CAU",
+        "description": "A bustling metropolis blending tradition and modernity, famous for its cherry blossoms and rich culture."
+      },
+      {
+        "name": "Kyoto, Japan",
+        "category": "City",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRoxridbYEXVA_34zVqKtMWJL77C9GbVsnaQ&s",
+        "description": "Known for its historic temples, gardens, and traditional tea houses."
+      },
+      {
+        "name": "Rio de Janeiro, Brazil",
+        "category": "City",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkkGLQDRdqFgHBmxtTkgWFqa8-7gknH95Epg&s",
+        "description": "A lively city known for its stunning beaches, vibrant carnival celebrations, and iconic landmarks."
+      },
+      {
+        "name": "São Paulo, Brazil",
+        "category": "City",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuC1F7-f9xywHsvqTaa55b6mxxc-McowklRg&s",
+        "description": "The financial hub with diverse culture, arts, and a vibrant nightlife."
+      },
+      {
+        "name": "Angkor Wat, Cambodia",
+        "category": "Temples",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRnqEKS99nL0JoprMxzCm8NDs_JRpcymxb_Q&s",
+        "description": "A UNESCO World Heritage site and the largest religious monument in the world."
+      },
+      {
+        "name": "Taj Mahal, India",
+        "category": "Temples",
+        "imageUrl": "https://www.travelandleisure.com/thmb/wdUcyBQyQ0wUVs4wLahp0iWgZhc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/taj-mahal-agra-india-TAJ0217-9eab8f20d11d4391901867ed1ce222b8.jpg",
+        "description": "An iconic symbol of love and a masterpiece of Mughal architecture."
+      },
+      {
+        "name": "Bora Bora, French Polynesia",
+        "category": "Beach",
+        "imageUrl": "https://www.tahititourisme.com/app/uploads/iris-images/23893/cg.v-bora-dscf2511b-hi-scaled-4-1600x800-f50_50.jpg",
+        "description": "An island known for its stunning turquoise waters and luxurious overwater bungalows."
+      },
+      {
+        "name": "Copacabana Beach, Brazil",
+        "category": "Beach",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtYqWwGP0JWQK9ZpPOVUU-o2pV9CYjtm9P7A&s",
+        "description": "A famous beach in Rio de Janeiro, Brazil, with a vibrant atmosphere and scenic views."
+      }
+    ]
